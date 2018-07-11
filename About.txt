@@ -1,0 +1,3 @@
+﻿id	名称	描述	icon路径
+1	用户QQ反馈群	131245920	career/cash.png
+2	微信公众账户	123456	career/cash.png

@@ -1,0 +1,5 @@
+﻿id	名称	对应Icon图片路径	双倍需要道具数量	道具Id	基础经验
+1	李秋水点播	members/u_ico.png		1	501001	200
+2	洪七公点拨	members/u_ico.png		2	501001	400
+3	无崖子点拨	members/u_ico.png		4	501001	600
+4	鸠摩智点拨	members/u_ico.png		6	501001	800

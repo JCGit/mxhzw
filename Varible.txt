@@ -1,0 +1,374 @@
+﻿品质图片
+ImageFileQuality1 = mainScene/u_scbanner06.png
+ImageFileQuality2 = mainScene/u_scbanner07.png
+ImageFileQuality3 = mainScene/u_scbanner08.png
+ImageFileQuality4 = mainScene/u_scbanner09.png
+
+品质图片大标
+ImageFileLargeQuality1 = person/u_scbanner06.png
+ImageFileLargeQuality2 = person/u_scbanner07.png
+ImageFileLargeQuality3 = person/u_scbanner08.png
+ImageFileLargeQuality4 = person/u_scbanner09.png
+
+#背景图片
+DefaultIcon_ImageFile = mainScene/u_icobg01.png
+DefaultIcon_ImageFile_100 = mainScene/u_+2.png
+DefaultIcon_ImageFile_Skill = mainScene/u_+1.png
+DefaultIcon_ImageFile_Weapon = mainScene/u_+1.png
+DefaultIcon_ImageFile_Armor = mainScene/u_+1.png
+DefaultIcon_ImageFile_Jewery = mainScene/u_+1.png
+DefaultIcon_ImageFile_TeamOverview = mainScene/u_team.png
+DefaultIcon_ImageFile_TeamUnlock = mainScene/u_lock.png
+#边框图片
+FrameNormal_ImageFile = mainScene/u_icobg02.png
+FrameSelected_ImageFile = mainScene/u_icobg02.png
+FrameDisabled_ImageFile = mainScene/u_icobg02.png
+FrameNormal_ImageFile_Foot = mainScene/u_icobg02.png
+FrameSelected_ImageFile_Foot = mainScene/u_icobg02.png
+FrameDisabled_ImageFile_Foot = mainScene/u_icobg02.png
+
+AdventureIconFrameSelected_ImageFile = mainScene/u_icobg06.png
+#边框品质颜色
+FrameColor_Quality1 = 204 112 252
+FrameColor_Quality2 = 58 188 255
+FrameColor_Quality3 = 104 213 38
+FrameColor_Quality4 = 255 255 255
+
+Yuanfen_Activate = 255 255 255 
+Yuanfen_Nonactivated = 0 0 0
+
+Chat_PlayerName = 255 255 255 
+Chat_Content = 104 213 38
+
+
+#称号边框颜色
+FrameColor_Title = 255 229 78
+
+#广播文字颜色
+BoardCastLabel_Color = 255 255 255 
+
+Color_Black = 0 0 0 
+Color_Gray = 166 166 166 
+
+#称号buff图片
+TitleBuff_ImageFile = mainScene/u_pship.png
+
+#武器
+EquipAttack_ImageFile1 = mainScene/u_pgongp.png
+#防具
+EquipAttack_ImageFile2 = mainScene/u_pfangp.png
+#饰品
+EquipAttack_ImageFile3 = mainScene/u_pxuep.png
+
+#单体攻击
+SkillAttack_ImageFile1 = mainScene/u_pqiang.png
+#群体攻击
+SkillAttack_ImageFile2 = mainScene/u_pqiang.png
+#血量BUFF
+SkillAttack_ImageFile3 = mainScene/u_pxuep.png
+#攻击BUFF
+SkillAttack_ImageFile4 = mainScene/u_pgongp.png
+#防御BUFF
+SkillAttack_ImageFile5 = mainScene/u_pfangp.png
+#内力BUFF
+SkillAttack_ImageFile6 = mainScene/u_pyip.png
+
+#装备、技能等选择状态图片
+#未选中
+ContentUnselected_ImageFile_Normal = mainScene/u_contenA02.png
+#选中
+ContentSelected_ImageFile_Normal = mainScene/u_buttenselect.png
+
+#航行按钮选中状态图片
+#未选中
+ContentUnselected_ImageFile_CareerNav = mainScene/u_buttenJ02.png
+#选中
+ContentSelected_ImageFile_CareerNav = mainScene/u_buttenJ01.png
+
+#财神到活动摇奖后弹框速度#
+FortuneComeRewardSpeed = 1.2
+#文字换行宽度
+#船员描述
+Disciple_Describe = 7
+#缘分描述
+YuanFen_Describe = 24
+#奥义描述
+Skill_Describe = 7
+#装备描述
+Equip_Describe = 7
+Equip_Describe_Stone = 20
+#称号描述
+Title_Describe = 7
+#道具描述（商店购买时）
+BuyProp_Describe = 19
+#航行
+CareerPassPlot_Describe = 21
+#航行
+CareerChapterPlot_Describe = 25
+#体力不足弹窗
+PopupNotEnoughPage_Msg = 13
+#体力不足弹窗中的道具描述
+PopupNotEnoughPage_PropDescribe = 13
+#传承时选择传承药剂的描述
+TrainingBolusChoosePage_Desc = 16
+#决斗领奖的道具描述
+ArenaPageReward_Desc = 12
+#包裹里道具描述
+PackagePageContent_Desc = 13
+#帮助页面
+HelpDescribe=18
+#新手引导对话框
+InstructionDialogs=14
+#航行剧情对话框
+CareerStoryDialogs=25
+#帮助页面
+HelpDescribe=18
+#公告页面详细内容
+AnnouncementPageDescribe=19;
+#航行获得影子弹出窗描述
+SurpriseDescription=13;
+#航行获得影子弹出窗描述
+SurpriseNode=18;
+#航行获得影子弹出窗描述
+CareerQuickResultDetail=20;
+#宝石升级页面描述换行#
+StoneUpgradeTexts=19;
+#购买打孔器页面换行#
+BuyStoneHoleTexts=16;
+
+ChatPageContent=21;
+
+#送影子活动页面换行
+ActivityPopPage_Describe=18;
+
+#VIP内容
+VIPPrivilegeDescribe=16;
+PopupPage_Msg=18;
+#道具描述（弹窗）
+PropInfoPage_Desc = 7;
+#残章描述
+SkillBookNote_Describe=18;
+SkillBook_Describe=22;
+#充值返利描述
+ChargeRebateContent=20
+FortuneComePopMsg=22
+#论剑默认显示第几个位置#
+ArenaPosition=3
+#破阵开始的小时数#
+WorldBossOpenHour=20
+#破阵开始的分钟数#
+WorldBossOpenMin=30
+#破阵初始BUFF需要的钻石#
+WorldBossInitGoldAttack=10
+#破阵增长BUFF需要增加的钻石#
+WorldBossCreGoldAttack=5
+#破阵BUFF加成#
+WorldBossInitBuffAttack=10
+#破阵立即复活需要的钻石#
+WorldBossInitRebornAttack=2
+#连续开宝箱数量限制#
+ContinueOpenBoxLimit=100
+#连续开宝箱VIP等级限制#
+ContinueOpenBoxVIPLimit=5
+#连续强化装备VIP等级限制#
+QuickEnhanceVIPLimit=3
+#连续强化装备每行字数#
+QuickEnhanceDescribe=16
+#是否开启图鉴后台控制显示#
+HandbookShowBg=0
+#世界boss开启等级#
+WorldBossOpenLevel=13
+#宝石镶嵌开启等级#
+StoneInlaidLevel=20
+#宝石镶嵌向导开启等级#
+StoneGuideStartLevel=20
+#宝石镶嵌向导关闭等级#
+StoneGuideEndLevel=20
+
+
+#vip等级
+Vip_Level_1 = mainScene/u_vip01.png
+Vip_Level_2 = mainScene/u_vip02.png
+Vip_Level_3 = mainScene/u_vip03.png
+Vip_Level_4 = mainScene/u_vip04.png
+Vip_Level_5 = mainScene/u_vip05.png
+Vip_Level_6 = mainScene/u_vip06.png
+Vip_Level_7 = mainScene/u_vip07.png
+Vip_Level_8 = mainScene/u_vip08.png
+Vip_Level_9 = mainScene/u_vip09.png
+Vip_Level_10 = mainScene/u_vip10.png
+Vip_Level_11 = mainScene/u_vip11.png
+Vip_Level_12 = mainScene/u_vip12.png
+Vip_Level_13 = mainScene/u_vip13.png
+#buff大图
+Buff_ImageFile1=mainScene/u_xzxue.png
+Buff_ImageFile2=mainScene/u_xzgong.png
+Buff_ImageFile3=mainScene/u_xzfang.png
+Buff_ImageFile4=mainScene/u_xzyi.png
+#反馈
+FeedBack_email=mxhzw@com4loves.com
+FeedBack_title=用户反馈
+FeedBack_body=玩家名称：\n所在服务器：\n问题描述：\n
+
+#新手期向导
+#引导购买装备道具最大等级
+GuideBuyEquipMaxLevel=14
+#引导购买装备道具最小等级
+GuideBuyEquipMinLevel=11
+#引导购买经验最小等级
+GuideBuyExpMinLevel=15;
+#引导购买经验最大等级
+GuideBuyExpMaxLevel=16
+#引导购买装备道具id
+GuideBuyEquipId=8;
+#引导购买装备道具价格
+GuideBuyEquipPrice=289
+#引导购买装备道具每行字数
+GuideBuyEquipDescriptionNumber=15
+#引导购买经验图标
+GuideBuyExpIcon=mainScene/u_jingyanyaoji.png
+#引导购买经验价格
+GuideBuyExpPrice=289
+#引导购买装备经验每行字数
+GuideBuyExpDescriptionNumber=15
+#引导提示充值最小贝里
+GuideCoinsLimit=500;
+#引导提示充值等级区间
+GuideCoinsEnoughLV=10,20,30,40,50;
+#论剑按钮类型图片
+Arena_Challenge_NormalPic = mainScene/u_buttenI01.png
+Arena_Challenge_SelectedPic = mainScene/u_buttenI01.png
+
+#阵容默认无上阵船员Icon及锁Icon
+Team_Default_Pic = mainScene/u_team.png
+Team_Lock_Pic = mainScene/u_lock.png
+
+#队员品质图片
+MemImageFileQuality1 = battle/b_qa.png
+MemImageFileQuality2 = battle/b_qb.png
+MemImageFileQuality3 = battle/b_qc.png
+MemImageFileQuality4 = battle/b_qd.png
+
+#队员品质背景图片
+MemBgImageFileQuality1 = person/u_qAbg.png
+MemBgImageFileQuality2 = person/u_qBbg.png
+MemBgImageFileQuality3 = person/u_qCbg.png
+MemBgImageFileQuality4 = person/u_qDbg.png
+
+#连闯按钮灰色背景图片
+QuickCareerBtnGray = mainScene/u_buttenH03.png
+QuickCareerBtnNormal = mainScene/u_buttenH01.png
+#diamon图标位置
+Diamon = members/m1.png
+
+#连闯花费钻石清除冷却时间
+BaseDiamon = 5
+Divisor = 5
+
+#连闯最大数目
+QuickCareerMaxNum = 10
+
+#队员阵营图片
+ImageFileSelf = battle/b_bgr01.png
+ImageFileEnemy = battle/b_bgb01.png
+
+#体力和战意不足NPC图片
+PowerPopNotEnoughImageFile =members/head_char_yiwakefu.png
+VitalityPopNotEnoughImageFile =members/head_char_yiwakefu.png
+
+#阵容气势图片路径
+TeamBattle_Title_Pic = mainScene/u_pship.png
+
+#连续登陆是否开启开关
+ContinueLoginOpenStatus = 0
+
+#盟战相关图标--无盟战
+noLianMengBattleIcon = lianmeng/LianMengNoBattlePic.png
+#盟战相关图标--战斗中
+inLianMengBattleIcon = lianmeng/LianMengBattlePic.png
+#盟战相关图标--未占领
+noOccupyLianMengBattleIcon = lianmeng/LianMengNoBattlePic.png
+#盟战相关图标--未选择图腾
+noLianMengBuildingIcon = lianmeng/tt_wu.png
+
+
+
+
+#队员阵营血图片
+ImageFileBloodSelf = battle/b_bgr02.png
+ImageFileBloodEnemy = battle/b_bgb02.png
+
+#music
+EquipEnhance = equip_enhance.mp3
+ArenaReward = arena_reward.mp3
+DiscipleRecruit = disciple_recruit.mp3
+FightNormalAttack = fightNormalAttack.mp3
+LoadingMusic = loadingMusic.mp3
+PlayerMaxLevel =50
+startTitle=startTitle.mp3
+entrance=entrance.mp3
+queue=queue.mp3
+winSound=win.mp3
+loseSound=lose.mp3
+finalRound=finalRound.mp3
+LevelUpMusic=levelup.mp3
+#公告页面是否打开
+AnnouncementPageOpenStatus = 1
+#开启抽卡活动冒险活动引导提示
+GuideTipOpenStatus = 1
+#开启抽卡活动冒险活动引导提示
+GuideBtnTipOpenStatus = 0
+#连续登陆提示
+AdventureContinueTipLevel=10
+
+#是否需要修正2态图片锚点
+ButtonFrameAnchorPoint = 1
+
+#系统推送信息开启状态
+NotificationPowerRecoveyStats =0
+NotificationEatPowerStats=1
+NotificationWorldBossStats=1
+#worldboss name
+WorldBossName = 黑胡子
+
+#激活码页面是否开启
+CDKeyPageOpenStatus = 0
+
+#恩怨功能是否开启
+LinkManOpenStatus = 1
+
+#聊天功能是否开启
+ChatOpenStatus = 1
+
+#图鉴功能是否开启
+HandbookOpenStatus = 1
+
+#连闯功能配置
+EnableQuickVIPLevel=3	
+EnableUserDiamonVipLevel=6
+
+#联盟相关数据
+LianMengDefaultStrongHold = mainScene/u_buttenH01.png
+LianMengMessageLen = 24
+
+#18183论坛地址
+url18183=http://bbs.18183.com/forum-mxhzw-1.html
+
+#打开连接类型
+OpenAnnouncementStatus=0
+
+#装备上限
+EquipNumLimit = 1800
+
+#停服时间间隔
+ServerStopTime = 60 180 900 1800
+
+#
+#privatePause=true
+#privateLogin=true
+
+#关掉游戏进程时间（单位秒）
+ExitGameTime = 21600
+
+#塔罗牌　的道具itmeid 
+TarotToolId = 4003001

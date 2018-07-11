@@ -1,0 +1,20 @@
+info face="Adobe Hebrew" size=50 bold=1 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=4 padding=8,2,2,2 spacing=0,0 outline=0
+common lineHeight=50 base=37 scaleW=128 scaleH=128 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="shuzi4_0.png"
+chars count=16
+char id=39   x=11    y=74    width=9     height=21    xoffset=-1    yoffset=0     xadvance=7     page=0  chnl=15
+char id=43   x=40    y=36    width=24    height=30    xoffset=0     yoffset=9     xadvance=23    page=0  chnl=15
+char id=44   x=0     y=74    width=11    height=22    xoffset=-1    yoffset=22    xadvance=10    page=0  chnl=15
+char id=45   x=30    y=71    width=15    height=13    xoffset=0     yoffset=18    xadvance=14    page=0  chnl=15
+char id=46   x=20    y=74    width=10    height=16    xoffset=0     yoffset=23    xadvance=10    page=0  chnl=15
+char id=47   x=0     y=0     width=16    height=39    xoffset=-1    yoffset=1     xadvance=13    page=0  chnl=15
+char id=48   x=64    y=36    width=22    height=29    xoffset=-1    yoffset=10    xadvance=20    page=0  chnl=15
+char id=49   x=107   y=35    width=18    height=29    xoffset=2     yoffset=10    xadvance=20    page=0  chnl=15
+char id=50   x=86    y=36    width=21    height=29    xoffset=0     yoffset=10    xadvance=20    page=0  chnl=15
+char id=51   x=21    y=36    width=19    height=35    xoffset=0     yoffset=10    xadvance=20    page=0  chnl=15
+char id=52   x=100   y=0     width=23    height=35    xoffset=-1    yoffset=10    xadvance=20    page=0  chnl=15
+char id=53   x=82    y=0     width=18    height=36    xoffset=1     yoffset=10    xadvance=20    page=0  chnl=15
+char id=54   x=39    y=0     width=22    height=36    xoffset=-1    yoffset=4     xadvance=20    page=0  chnl=15
+char id=55   x=0     y=39    width=21    height=35    xoffset=0     yoffset=10    xadvance=20    page=0  chnl=15
+char id=56   x=61    y=0     width=21    height=36    xoffset=0     yoffset=3     xadvance=20    page=0  chnl=15
+char id=57   x=16    y=0     width=23    height=36    xoffset=-2    yoffset=10    xadvance=20    page=0  chnl=15

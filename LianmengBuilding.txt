@@ -1,0 +1,13 @@
+建筑ID	建筑类型	名称	描述	ICON	显示顺序
+1	1	商店	联盟商店	lianmeng/shop.png	3
+2	2	联盟资金	可将捐献的贝里转化为联盟资金，用于恶魔之力修复和盟战竞价	lianmeng/cangku.png	2
+3	3	恶魔之力（冰）	恶魔之力血量上升为%d1，盟战时能力加成上升为%d2。防御NPC能力也会上升	lianmeng/tt_shui.png	4
+4	3	恶魔之力（火）	恶魔之力血量上升为%d1，盟战时能力加成上升为%d2。防御NPC能力也会上升	lianmeng/tt_huo.png	5
+5	3	恶魔之力（风）	恶魔之力血量上升为%d1，盟战时能力加成上升为%d2。防御NPC能力也会上升	lianmeng/tt_mu.png	6
+6	3	恶魔之力（沙）	恶魔之力血量上升为%d1，盟战时能力加成上升为%d2。防御NPC能力也会上升	lianmeng/tt_tu.png	7
+7	3	恶魔之力（雷）	恶魔之力血量上升为%d1，盟战时能力加成上升为%d2。防御NPC能力也会上升	lianmeng/tt_jin.png	8
+8	4	血量神坛	所有上阵船员血量提高%d1，脱离联盟后失效	lianmeng/st_xue.png	9
+9	4	攻击神坛	所有上阵船员攻击提高%d1，脱离联盟后失效	lianmeng/st_gong.png	10
+10	4	防御神坛	所有上阵船员防御提高%d1，脱离联盟后失效	lianmeng/st_fang.png	11
+11	4	意志神坛	所有上阵船员意志提高%d1，脱离联盟后失效	lianmeng/st_nei.png	12
+12	5	联盟基地	联盟成员总数变为%d1。其他建筑等级不可超过联盟等级	lianmeng/jd.png	1

@@ -1,0 +1,7 @@
+﻿id	名称	描述	对应Icon图片路径
+1001	钻石	充值或活动获得，可购买高级道具	members/m1.png
+1002	贝里	基础货币，可以强化装备等	members/m2.png
+1003	威望	船长升级所需	members/u_ico.png
+2001	钻石	充值或活动获得，可购买高级道具	members/m1.png
+2002	贝里	基础货币，可以强化装备等	members/m2.png
+2003	威望	船长升级所需	members/u_ico.png

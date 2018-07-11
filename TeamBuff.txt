@@ -1,0 +1,5 @@
+加成类型	名称	解锁等级	初始等级	每级加成	icon 	smaill_icon
+1	生命修行	5	0	6	mainScene/u_xzxue.png	mainScene/u_pxuep.png
+2	攻击修行	10	0	3	mainScene/u_xzgong.png	mainScene/u_pgongp.png
+3	防御修行	15	0	2	mainScene/u_xzfang.png	mainScene/u_pfangp.png
+4	意志修行	20	0	8	mainScene/u_xzyi.png	mainScene/u_pyip.png

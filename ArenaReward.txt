@@ -1,0 +1,10 @@
+ID	type	标题	兑换积分	奖励额度	描述	iconPic
+1	1	炼制潜能药剂	1000	5	1000积分兑换5个潜能药剂.	members/head_char_xiluluke.png
+2	1	精炼潜能药剂	10000	50	10000积分兑换50个潜能药剂。	members/head_char_qiaoba.png
+3	2	300潜能药剂	0	300	第1次达到或超过1000名，即可领取300个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+4	2	300潜能药剂	0	300	第1次达到或超过500名，即可领取300个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+5	2	300潜能药剂	0	300	第1次达到或超过200名，即可领取300个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+6	2	300潜能药剂	0	300	第1次达到或超过100名，即可领取300个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+7	2	300潜能药剂	0	300	第1次达到或超过50名，即可领取300个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+8	2	600潜能药剂	0	600	第1次达到或超过10名，即可领取600个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
+9	2	600潜能药剂	0	600	第1次达到第1名，即可领取600个潜能药剂。	itemposter/poster_item_qiannengyaoji.png
